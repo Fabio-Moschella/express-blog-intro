@@ -2,31 +2,31 @@ const posts = [
   {
     title: "Napoli",
     content: "league",
-    image: "",
+    image: "/images/scudetto2023.jpg",
     tags: "",
   },
   {
     title: "Napoli",
     content: "league",
-    image: "",
+    image: "/images/scudetto2023.jpg",
     tags: "",
   },
   {
     title: "Napoli",
     content: "league",
-    image: "",
+    image: "/images/scudetto2023.jpg",
     tags: "",
   },
   {
     title: "Napoli",
     content: "league",
-    image: "",
+    image: "/images/scudetto2023.jpg",
     tags: "",
   },
   {
     title: "Napoli",
     content: "league",
-    image: "",
+    image: "/images/scudetto2023.jpg",
     tags: "",
   },
 ];
